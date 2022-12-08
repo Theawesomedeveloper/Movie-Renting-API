@@ -7,16 +7,10 @@ This is a Vanilla Js Movie Api based of Classes.
 
 ## Table of contents
 - [Run Locally](#run-locally)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+- [Api Reference](#api-reference)
+  - [Library Class](#library-class)
   - [Profile Class](#profile-class)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Movie Class](#movie-class)
 ## Run Locally
 
 Clone the project
