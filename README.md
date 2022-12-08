@@ -26,19 +26,19 @@ This is a Vanilla Js Movie Api based of Classes.
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Theawesomedeveloper/Movie-Renting-API.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Movie-Renting-API
 ```
 
 Run the code
 
 ```bash
-node movieapp.js
+node movie api.js
 ```
 
 
