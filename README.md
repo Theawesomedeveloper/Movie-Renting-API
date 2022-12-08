@@ -9,8 +9,18 @@ This is a Vanilla Js Movie Api based of Classes.
 - [Run Locally](#run-locally)
 - [Api Reference](#api-reference)
   - [Library Class](#library-class)
+    - [View Movies](#1--view-movies)
+    - [View Rents](#1--view-movies)
+    - [View Users](#3--view-users)
   - [Profile Class](#profile-class)
+    - [Update Username](#1-update-username)
+    - [Play Movie](#2-play)
+    - [View Playlist](#3-view-playlist)
+    - [View Profile](#4-view-profile)
+    - [Add Credit](#5-add-credit)
   - [Movie Class](#movie-class)
+    - [Renting A Movie](#1-rent-a-movie)
+    - [Returning A Movie](#1-returning-a-movie)
 ## Run Locally
 
 Clone the project
