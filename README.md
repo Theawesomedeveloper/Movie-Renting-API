@@ -4,10 +4,9 @@
 Vanilla Js doing what it does best.
 This is a Vanilla Js Movie Api based of Classes.
 
-(####Usage/Examples)joan
 
 ## Table of contents
-- [Overview](#overview)
+- [Run Locally](https://github.com/Theawesomedeveloper/Movie-Renting-API/edit/main/README.md#run-locally)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
