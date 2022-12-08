@@ -6,7 +6,7 @@ This is a Vanilla Js Movie Api based of Classes.
 
 
 ## Table of contents
-- [Run Locally](https://github.com/Theawesomedeveloper/Movie-Renting-API/edit/main/README.md#run-locally)
+- [Run Locally](#run-locally)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
